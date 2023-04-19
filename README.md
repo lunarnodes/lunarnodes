@@ -13,4 +13,4 @@ Lunar Nodes offers a variety of features to help you manage and host your Discor
 
 - **Affordable**: We offer affordable hosting plans that won't break the bank. Our pricing is competitive, and we don't charge any hidden fees. (its free btw)
 
-- 24/7 Support: Our support team is available 24/7 to help you with any issues you may encounter. We're always here to help.
+- **24/7 Support**: Our support team is available 24/7 to help you with any issues you may encounter. We're always here to help.
